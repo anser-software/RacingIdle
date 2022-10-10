@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1967218035728579930
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1967218035728579931}
+  - component: {fileID: 1967218035728579940}
+  m_Layer: 0
+  m_Name: SpawnerSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1967218035728579931
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1967218035728579930}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1967218035728579940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1967218035728579930}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c7ef04377e02884e84c26560b013839, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moneyCheckpoint:
+    Prefab: {fileID: 6643564564842418853, guid: daf3ebc957593174c8b618b65f2539a9, type: 3}
+    LocalOffset: {x: 0, y: 0, z: 0}
+    Forward: {x: -1, y: 0, z: 0}
+  initialCheckpointCount: 2
+  maxCheckpointCountPerSegment: 3
+  cars:
+  - {fileID: 6953041511694730783, guid: 6889b9763478a454cb6fa691a6ddb442, type: 3}
+  - {fileID: 1897246111874571219, guid: 7b40c2976a6b0fc4eb081e624116a154, type: 3}
+  - {fileID: 173321188740930814, guid: 0bff788c17c32cc4aaec308fdb1498ba, type: 3}
+  - {fileID: 4309166988401577276, guid: 093995bd801f6a94fa00da3d93a83562, type: 3}

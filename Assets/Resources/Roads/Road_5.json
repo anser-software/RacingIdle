@@ -1,0 +1,443 @@
+{
+  "$type": "PathCreation.BezierPath, PathCreator",
+  "points": {
+    "$type": "System.Collections.Generic.List`1[[UnityEngine.Vector3, UnityEngine.CoreModule]], mscorlib",
+    "$values": [
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -30.0,
+        "y": 0.0,
+        "z": -30.0,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.707106769,
+          "y": 0.0,
+          "z": -0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 42.4264069,
+        "sqrMagnitude": 1800.0
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -30.93338,
+        "y": 0.0,
+        "z": -29.06662,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.7287541,
+          "y": 0.0,
+          "z": -0.6847754,
+          "normalized": {
+            "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+            "x": -0.728754163,
+            "y": 0.0,
+            "z": -0.6847755,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 42.4469376,
+        "sqrMagnitude": 1801.74243
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -30.9109116,
+        "y": 0.0,
+        "z": -19.95532,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.8401382,
+          "y": 0.0,
+          "z": -0.542372465,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 36.7926521,
+        "sqrMagnitude": 1353.69922
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -30.0,
+        "y": 0.0,
+        "z": -19.0,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.844819069,
+          "y": 0.0,
+          "z": -0.535052061,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 35.5105629,
+        "sqrMagnitude": 1261.0
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -26.51803,
+        "y": 0.0,
+        "z": -15.3482761,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.8654867,
+          "y": 0.0,
+          "z": -0.5009319,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 30.6394444,
+        "sqrMagnitude": 938.7755
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 8.51803,
+        "y": 0.0,
+        "z": -20.6517239,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.3813001,
+          "y": 0.0,
+          "z": -0.9244513,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 22.33944,
+        "sqrMagnitude": 499.050537
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 12.0,
+        "y": 0.0,
+        "z": -17.0,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.576683164,
+          "y": 0.0,
+          "z": -0.816967845,
+          "normalized": {
+            "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+            "x": 0.5766832,
+            "y": 0.0,
+            "z": -0.8169679,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 20.8086529,
+        "sqrMagnitude": 433.0
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 13.2421532,
+        "y": 0.0,
+        "z": -15.6972895,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.6448017,
+          "y": 0.0,
+          "z": -0.7643499,
+          "normalized": {
+            "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+            "x": 0.644801736,
+            "y": 0.0,
+            "z": -0.764349937,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 20.5367851,
+        "sqrMagnitude": 421.759521
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 13.2421532,
+        "y": 0.0,
+        "z": -3.30271077,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.9702773,
+          "y": 0.0,
+          "z": -0.2419958,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 13.6478024,
+        "sqrMagnitude": 186.262512
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 12.0,
+        "y": 0.0,
+        "z": -2.0,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.986393869,
+          "y": 0.0,
+          "z": -0.164398983,
+          "normalized": {
+            "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+            "x": 0.9863939,
+            "y": 0.0,
+            "z": -0.164399,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 12.1655254,
+        "sqrMagnitude": 148.0
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 8.51803,
+        "y": 0.0,
+        "z": 1.65172362,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.9817137,
+          "y": 0.0,
+          "z": 0.190363228,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 8.676695,
+        "sqrMagnitude": 75.28503
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -26.51803,
+        "y": 0.0,
+        "z": -3.65172362,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.990651131,
+          "y": 0.0,
+          "z": -0.136419788,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 26.7682838,
+        "sqrMagnitude": 716.541
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -30.0,
+        "y": 0.0,
+        "z": 0.0,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 30.0,
+        "sqrMagnitude": 900.0
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -30.8281021,
+        "y": 0.0,
+        "z": 0.8684738,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.99960345,
+          "y": 0.0,
+          "z": 0.0281603262,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 30.840332,
+        "sqrMagnitude": 951.1261
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -30.8485279,
+        "y": 0.0,
+        "z": 9.151472,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.9587036,
+          "y": 0.0,
+          "z": 0.284407377,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 32.1773376,
+        "sqrMagnitude": 1035.3811
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -30.0,
+        "y": 0.0,
+        "z": 10.0,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.9486833,
+          "y": 0.0,
+          "z": 0.316227764,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 31.622776,
+        "sqrMagnitude": 1000.0
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -24.90883,
+        "y": 0.0,
+        "z": 15.0911694,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.855275333,
+          "y": 0.0,
+          "z": 0.5181739,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 29.1237564,
+        "sqrMagnitude": 848.193237
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 24.90883,
+        "y": 0.0,
+        "z": 15.0911694,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.855275333,
+          "y": 0.0,
+          "z": 0.5181739,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 29.1237564,
+        "sqrMagnitude": 848.193237
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 30.0,
+        "y": 0.0,
+        "z": 10.0,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.9486833,
+          "y": 0.0,
+          "z": 0.316227764,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 31.622776,
+        "sqrMagnitude": 1000.0
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 33.39411,
+        "y": 0.0,
+        "z": 6.60588741,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.9809905,
+          "y": 0.0,
+          "z": 0.194055557,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 34.0412178,
+        "sqrMagnitude": 1158.80444
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 33.39411,
+        "y": 0.0,
+        "z": -26.6058884,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.7821171,
+          "y": 0.0,
+          "z": -0.623131454,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 42.69707,
+        "sqrMagnitude": 1823.04
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 30.0,
+        "y": 0.0,
+        "z": -30.0,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.707106769,
+          "y": 0.0,
+          "z": -0.707106769,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 42.4264069,
+        "sqrMagnitude": 1800.0
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": 24.90883,
+        "y": 0.0,
+        "z": -35.0911674,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": 0.5788308,
+          "y": 0.0,
+          "z": -0.8154477,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 43.03301,
+        "sqrMagnitude": 1851.83984
+      },
+      {
+        "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+        "x": -24.90883,
+        "y": 0.0,
+        "z": -35.0911674,
+        "normalized": {
+          "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+          "x": -0.5788308,
+          "y": 0.0,
+          "z": -0.8154477,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 43.03301,
+        "sqrMagnitude": 1851.83984
+      }
+    ]
+  },
+  "isClosed": true,
+  "space": 2,
+  "controlMode": 3,
+  "autoControlLength": 0.12,
+  "perAnchorNormalsAngle": {
+    "$type": "System.Collections.Generic.List`1[[System.Single, mscorlib]], mscorlib",
+    "$values": [
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0,
+      90.0
+    ]
+  },
+  "globalNormalsAngle": 0.0,
+  "flipNormals": false
+}
