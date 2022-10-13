@@ -7,6 +7,7 @@ using GameAnalyticsSDK;
 public class ProgressManager : MonoBehaviour, ISaveable
 {
 
+    [SerializeField]
     private Upgrade[] upgrades;
 
     [SaveThis]
@@ -55,10 +56,6 @@ public class ProgressManager : MonoBehaviour, ISaveable
 
     private void LoadUpgrades()
     {
-        Resources.LoadAll<Upgrade>("");
-
-        upgrades = GetAllUpgrades();
-
         for (int i = 0; i < upgrades.Length; i++)
         {
             upgrades[i].SetUnlockCondition();
@@ -102,11 +99,6 @@ public class ProgressManager : MonoBehaviour, ISaveable
             upgrades[upgradeIndex].Execute();
             SaveDataManager.SaveAll();
         }
-    }
-
-    public static Upgrade[] GetAllUpgrades()
-    {
-        return Resources.FindObjectsOfTypeAll<Upgrade>();
     }
 
     private void OnApplicationQuit()

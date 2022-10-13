@@ -2368,7 +2368,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7047777157972668239, guid: bd001f722a3d47647baaeee5804a08f4, type: 3}
       propertyPath: upgradeIndex
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7047777157972668239, guid: bd001f722a3d47647baaeee5804a08f4, type: 3}
       propertyPath: modBaseForPrice
@@ -2494,7 +2494,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7047777157972668239, guid: bd001f722a3d47647baaeee5804a08f4, type: 3}
       propertyPath: upgradeIndex
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7047777157972668239, guid: bd001f722a3d47647baaeee5804a08f4, type: 3}
       propertyPath: modBaseForPrice

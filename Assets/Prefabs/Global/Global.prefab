@@ -428,6 +428,18 @@ PrefabInstance:
       propertyPath: pathCreator
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5563516956686754320, guid: 0d52ea2455405d44b9312c0f839ccdde, type: 3}
+      propertyPath: repeatedPathSegment.trimEnd
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5563516956686754320, guid: 0d52ea2455405d44b9312c0f839ccdde, type: 3}
+      propertyPath: repeatedPathSegment.lastPointIndex
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5563516956686754320, guid: 0d52ea2455405d44b9312c0f839ccdde, type: 3}
+      propertyPath: repeatedPathSegment.firstPointIndex
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 5563516956686754322, guid: 0d52ea2455405d44b9312c0f839ccdde, type: 3}
       propertyPath: m_Name
       value: PathManager

@@ -196,12 +196,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 176a17b804c821848a6c47c94f2bb800, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offset: {x: 0, y: -20, z: 0}
+  offset: {x: -5, y: -20, z: -5}
   angleAboveGround: 0.5
-  distance: 185
-  rotationSensitivity: 3
+  distance: 190
+  rotationSensitivity: 0.2
   rotationAcceleration: 5
-  distancePerSegment: 0
+  distancePerSegment: 10
   facePivot: 1
 --- !u!1 &7922812520931289344
 GameObject:

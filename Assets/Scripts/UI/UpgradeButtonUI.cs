@@ -11,7 +11,6 @@ public class UpgradeButtonUI : MonoBehaviour
     [SerializeField]
     private bool hideTheEntireButtonIfLocked;
 
-    [HideInInspector]
     public int upgradeIndex;
 
     [SerializeField]
